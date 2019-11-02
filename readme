@@ -1,0 +1,4 @@
+
+navigate to ..Source\Repos\BabySitter\BabySitter\bin\Debug\netcoreapp3.0> and execute BabySitter.exe.
+follow the prompts to enter a family letter, start time, and end time
+note the result which is a pay amount
